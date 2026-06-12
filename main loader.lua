@@ -1,4 +1,4 @@
-if (game.GameId == 92416421522960) then
-  loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/a7d6ea7075cf07b11a25819b7a3666e1.lua"))()
+if (game.GameId == 9792947201) then
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/41972481562d2b9ec20b8e7e0e65e7cf.lua"))()
 end
 
